@@ -4,6 +4,10 @@
 Context and date
 Description
 ## Implementation
+
 ## References
+
 ## Future Development
+none
 ## Created by
+Evan Lucas
