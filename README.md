@@ -4,7 +4,8 @@
 Context and date
 Description
 ## Implementation
-
+Core functions
+Background
 ## References
 
 ## Future Development
